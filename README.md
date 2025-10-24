@@ -74,21 +74,6 @@ print(classification_report1)
 */
 ```
 
-## Output:
-<img width="1720" height="730" alt="Screenshot 2025-09-25 105359" src="https://github.com/user-attachments/assets/d0aa854d-f769-4283-8fe4-e964d7d3b86c" />
-
-____________________________________________________________________________________
-
-<img width="393" height="66" alt="Screenshot 2025-09-25 105414" src="https://github.com/user-attachments/assets/98fffecf-d1eb-429e-9456-992b47198f4e" />
-
-____________________________________________________________________________________
-
-<img width="1288" height="388" alt="Screenshot 2025-09-25 105430" src="https://github.com/user-attachments/assets/b9ad05c4-3a13-44c4-8485-f170082ebfcd" />
-
-____________________________________________________________________________________
-
-<img width="1719" height="612" alt="Screenshot 2025-09-25 105452" src="https://github.com/user-attachments/assets/6554326b-1566-4c13-826e-9ebb46a9b384" />
-
 ____________________________________________________________________________________
 
 
